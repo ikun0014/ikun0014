@@ -1,7 +1,16 @@
-### Hi there 👋
-我是ikun  
-我正在学习Steam清单爬取  
-[Steam清单仓库](https://github.com/ikun0014/Manifest-AutoUpdate)  
-![ikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikun0014)   
-### 抵制不良倒卖者bilibili@沧海颐粟,长夜远行  
-### B站主页链接[沧海颐粟](https://space.bilibili.com/483992934),[长夜远行](https://space.bilibili.com/179592742)
+<h3 align="center">Hi!</h3>
+<br />
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  <a href="https://github.com/ikun0014">
+    <img src="https://streak-stats.demolab.com?user=ikun0014&theme=tokyonight&hide_border=true&border_radius=5&locale=zh_Hans&card_width=700" alt="QAQ">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ikun0014">
+    <img src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=ikun0014&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" alt="QAQ">
+  </a>
+</p>
