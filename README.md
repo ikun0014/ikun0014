@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Total Time: 14 hrs 8 mins
+Total Time: 12 hrs 54 mins
 
-Python            9 hrs 24 mins   >>>>>>>>>>>>>>>>---------   64.97 %
-Java              46 mins         >------------------------   05.39 %
+Python            8 hrs 9 mins    >>>>>>>>>>>>>>>>---------   62.02 %
+Java              46 mins         >------------------------   05.93 %
 ```
 
 <!--END_SECTION:waka-->
