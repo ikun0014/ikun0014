@@ -9,7 +9,7 @@
 <div align="center">
 <h2>我正在学习的语言</h2>
   
-![我正在学习的语言](https://skillicons.dev/icons?i=python,nodejs,vue,html)
+![我正在学习的语言](https://skillicons.dev/icons?i=python,nodejs,vue,html,dart)
 
 </div>
 
