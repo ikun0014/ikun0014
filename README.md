@@ -10,7 +10,7 @@
 <div align="center">
 <h2>我正在学习的语言</h2>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikun0014&locale=cn&bg_color=15,f2f7fd,E0EAFC"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikun0014&include_all_commits=true&count_private=true&locale=cn&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79,73FDFF,D783FF"/>
 
 </div>
 
