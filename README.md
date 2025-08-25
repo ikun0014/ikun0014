@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-Total Time: 26 hrs 39 mins
+Total Time: 25 hrs 6 mins
 
-Python       20 hrs 31 mins  >>>>>>>>>>>>>>>>>>>------   76.86 %
-JavaScript   3 hrs 6 mins    >>>----------------------   11.65 %
-TypeScript   36 mins         >------------------------   02.26 %
+Python       18 hrs 52 mins  >>>>>>>>>>>>>>>>>>>------   75.06 %
+JavaScript   3 hrs 6 mins    >>>----------------------   12.37 %
+TypeScript   36 mins         >------------------------   02.40 %
 ```
 
 <!--END_SECTION:waka-->
