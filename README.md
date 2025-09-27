@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Total Time: 27 hrs 48 mins
+Total Time: 27 hrs 47 mins
 
-Python        14 hrs 51 mins  >>>>>>>>>>>>>------------   52.58 %
-Rust          1 hr 31 mins    >------------------------   05.38 %
+Python       14 hrs 53 mins  >>>>>>>>>>>>>------------   53.29 %
+C++          1 hr 21 mins    >------------------------   04.89 %
 ```
 
 <!--END_SECTION:waka-->
