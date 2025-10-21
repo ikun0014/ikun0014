@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 19 October 2025
+From: 13 October 2025 - To: 20 October 2025
 
-Total Time: 10 hrs 58 mins
+Total Time: 7 hrs 31 mins
 
-Python       7 hrs 26 mins   >>>>>>>>>>>>>>>>>--------   67.74 %
-JSON         2 hrs 19 mins   >>>>>--------------------   21.16 %
-Rust         22 mins         >------------------------   03.42 %
+Python       5 hrs 11 mins   >>>>>>>>>>>>>>>>>--------   68.97 %
+JSON         1 hr 8 mins     >>>>---------------------   15.13 %
+Rust         22 mins         >------------------------   04.99 %
 ```
 
 <!--END_SECTION:waka-->
