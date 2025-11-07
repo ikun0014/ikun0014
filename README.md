@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 52 mins
 
-XML          41 mins         >>>>>>>>>----------------   36.75 %
-JavaScript   25 mins         >>>>>>-------------------   22.01 %
-TOML         13 mins         >>>----------------------   11.73 %
+XML          41 mins         >>>>>>>>>----------------   36.12 %
+JavaScript   31 mins         >>>>>>>------------------   27.29 %
+TOML         13 mins         >>>----------------------   11.52 %
 ```
 
 <!--END_SECTION:waka-->
