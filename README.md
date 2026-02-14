@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Total Time: 13 hrs 11 mins
+Total Time: 12 hrs 59 mins
 
-Python           10 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>-----   79.91 %
-JSON             1 hr 9 mins     >>-----------------------   08.69 %
-JavaScript       58 mins         >>-----------------------   07.34 %
+Python           10 hrs 28 mins  >>>>>>>>>>>>>>>>>>>>-----   79.61 %
+JSON             1 hr 9 mins     >>-----------------------   08.82 %
+JavaScript       58 mins         >>-----------------------   07.45 %
 ```
 
 <!--END_SECTION:waka-->
