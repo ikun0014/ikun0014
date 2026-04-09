@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Total Time: 3 hrs 7 mins
+Total Time: 3 hrs 1 min
 
-Kotlin            1 hr 18 mins          >>>>>>>>>----------------   35.34 %
-JSON              41 mins               >>>>>--------------------   18.69 %
-Other             35 mins               >>>>---------------------   15.78 %
+Kotlin            1 hr 18 mins          >>>>>>>>>----------------   35.60 %
+Other             39 mins               >>>>---------------------   17.87 %
+JSON              28 mins               >>>----------------------   13.07 %
 ```
 
 <!--END_SECTION:waka-->
