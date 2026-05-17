@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Total Time: 16 hrs 10 mins
+Total Time: 15 hrs 31 mins
 
-Kotlin       9 hrs 45 mins         >>>>>>>>>>>>>>>----------   59.78 %
-Go           2 hrs 39 mins         >>>>---------------------   16.32 %
-XML          57 mins               >------------------------   05.90 %
+Kotlin       12 hrs 37 mins        >>>>>>>>>>>>>>>>>>>>-----   79.15 %
+Go           1 hr 12 mins          >>-----------------------   07.59 %
+XML          49 mins               >------------------------   05.15 %
 ```
 
 <!--END_SECTION:waka-->
