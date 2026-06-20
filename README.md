@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 18 June 2026
+From: 12 June 2026 - To: 19 June 2026
 
 Total Time: 17 hrs 9 mins
 
-TypeScript   10 hrs 32 mins        >>>>>>>>>>>>>>>----------   59.04 %
-Kotlin       1 hr 6 mins           >>-----------------------   06.22 %
-Markdown     1 hr 1 min            >------------------------   05.75 %
+TypeScript   10 hrs 21 mins        >>>>>>>>>>>>>>-----------   57.89 %
+Kotlin       1 hr 14 mins          >>-----------------------   06.96 %
+JavaScript   1 hr 13 mins          >>-----------------------   06.81 %
 ```
 
 <!--END_SECTION:waka-->
